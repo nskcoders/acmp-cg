@@ -1,10 +1,11 @@
+//136 символов
 #include <iostream>
 #define x std::cin  >>
 #define z while(j >= i++)
 
 int i, j, a[1002];
 main(){
-    x j; z x a[i];
+    x j; z x a[i+1];
 
-    while(x i >> j) z std::cout << a[i - 1] << (j + 1 - i ? ' ' : '\n');
+    while(x i >> j) z std::cout << a[i] << (j - i ? ' ' : '\n');
 }
