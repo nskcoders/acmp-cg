@@ -1,14 +1,15 @@
 #include <iostream>
 #define x std::cin  >>
 #define y std::cout <<
+#define z while (j + 1 - i++)
 
 int i, j, a[1002];
 main(){
     x j;
-    while(j + 1 - i++) x a[i];
+    z x a[i];
 
     while(x i >> j){
-        while(j + 1 - i++) y a[i - 1] << ' ';
+        z y a[i - 1] << ' ';
         y '\n';
     }
 }
