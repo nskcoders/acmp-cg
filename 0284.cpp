@@ -1,4 +1,5 @@
 //symbols count: 123
+
 #include <iostream>
 #define x std::cin  >>
 #define z while(j >= i++)
