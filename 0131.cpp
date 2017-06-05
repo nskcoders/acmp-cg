@@ -1,7 +1,4 @@
-//acmp.ru results
-    //time: 30ms
-    //memory: 280Kb
-    //symbols count: 107
+//symbols count: 107
 
 #include <iostream>
 #define o std::cin >> v
