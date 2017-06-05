@@ -1,16 +1,10 @@
 #include <iostream>
 #define x std::cin  >>
-#define y std::cout <<
-#define z while (j >= i++)
+#define z while(j >= i++)
 
 int i, j, a[1002];
 main(){
-    x j;
-    z x a[i];
+    x j; z x a[i];
 
-    while(x i >> j){
-        z y a[i - 1] << ' ';
-        y '\n';
-    }
+    while(x i >> j) z std::cout << a[i - 1] << (j + 1 - i ? ' ' : '\n');
 }
-
