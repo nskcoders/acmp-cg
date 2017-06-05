@@ -4,7 +4,6 @@
 
 int i, j, a[1002];
 main(){
-    x j; z x a[i+1];
-
+    x j; z x a[i + 1];
     while(x i >> j) z printf("%d ", a[i]);
 }
