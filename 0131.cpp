@@ -1,8 +1,9 @@
 #include <iostream>
 #define o std::cin >> v
 
+int v, s, V = 0, N = -1, i = 1;
 main(){
-    int v, s, V = 0, N = -1, i = 1; o;
+    o;
     for(; o >> s; i++) s & v > V ? N = i, V = v : 0;
     std::cout << N;
 }
