@@ -1,7 +1,7 @@
 #include <iostream>
 #define o std::cin >> v
 
-int v, s, V = 0, N = -1, i = 1;
+int v, s, V, N = -1, i = 1;
 main(){
     o;
     for(; o >> s; i++) s & v > V ? N = i, V = v : 0;
