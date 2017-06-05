@@ -1,6 +1,6 @@
 /*acmp.ru results
 time: 30ms
-memory:280Kb
+memory: 280Kb
 symbols count: 107*/
 
 #include <iostream>
