@@ -1,7 +1,7 @@
 #include <iostream>
 #define x std::cin  >>
 #define y std::cout <<
-#define z while (j + 1 - i++)
+#define z while (j >= i++)
 
 int i, j, a[1002];
 main(){
@@ -13,3 +13,4 @@ main(){
         y '\n';
     }
 }
+
