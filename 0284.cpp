@@ -12,6 +12,6 @@ int main() {
     while (m--) {
         cin >> i >> j;
         for (int k = i-1; k < j; k++) cout << ' ' << a[k];
-        cout << "\n";
+        cout << endl;
     }
 }
