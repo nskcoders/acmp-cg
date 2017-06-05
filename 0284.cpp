@@ -6,5 +6,5 @@ int i, j, a[1002];
 main(){
     x j; z x a[i+1];
 
-    while(x i >> j) z std::cout << a[i] << ' ';
+    while(x i >> j) z printf("%i ", a[i]);
 }
