@@ -1,17 +1,14 @@
 #include <iostream>
+#define _ std::
 
-using namespace std;
+int n, i, j, a[1000];
+main() {
+    _ cin >> n;
+    while(n - i++) _ cin >> a[i - 1];
 
-int n, m, i, j;
-int main() {
-    cin >> n;
-    int a[n];
-    for (; i < n; i++) cin >> a[i];
-
-    cin >> m;
-    while (m--) {
-        cin >> i >> j;
-        for (int k = i-1; k < j; k++) cout << ' ' << a[k];
-        cout << endl;
+    _ cin >> n;
+    while(_ cin >> i >> j){
+        while(j + 1 - i++) _ cout << a[i - 2] << ' ';
+        _ cout << '\n';
     }
 }
